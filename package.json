@@ -10,8 +10,7 @@
     "node": ">=22"
   },
   "scripts": {
-    "build": "tsc",
-    "prepare": "tsc",
+    "build": "tsc",    
     "typecheck": "tsc --noEmit",
     "lint": "eslint .",
     "format": "prettier --write .",
